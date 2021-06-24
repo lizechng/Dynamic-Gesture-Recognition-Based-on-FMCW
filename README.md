@@ -10,13 +10,13 @@ This project is based on FMCW radar, and completed the data acquisition of four 
 
 This works based on **Tensorflow 1.12**.
 
-<div align="center"><img src="img/arch.png" width="600"/></div>
+<div align="center"><img src="img/arc.png" width="600"/></div>
 
 ### Major images
 
 - **Range-Doppler Map**
 
-  <div align="center"><img src="img/AWR.png" width="300"/></div>
+  <div align="center"><img src="img/AWR.png" width="350"/></div>
   <div align="center"><img src="img/RDM.png" width="600"/></div>
   <div align="center"><img src="img/RDM2.png" width="200"/></div>
   

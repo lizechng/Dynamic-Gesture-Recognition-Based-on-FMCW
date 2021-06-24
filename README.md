@@ -1,4 +1,4 @@
-<div align="center"><img src="img/lazchng.png" width="200"/></div>
+<div align="center"><img src="img/lazchng.png" width="500"/></div>
 
 **News**: We released the report on [ICSIP](https://ieeexplore.ieee.org/document/9339325).
 

@@ -6,7 +6,7 @@
 
 ## Dynamic Gesture Recognition Based on FMCW
 
-pass.
+This project is based on FMCW radar, and completed the data acquisition of four kinds of dynamic gesture signals. Then we use Matlab to generate RDM/xTM images, which is as the input of Multi-Net and TS-FNN. The acc is about 98%.
 
 This works based on **Tensorflow 1.12**.
 

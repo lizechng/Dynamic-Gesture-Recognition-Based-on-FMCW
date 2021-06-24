@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/Chngzz/Chngzz.github.io/tree/main/images/lazchng.png" width="600"/></div>
+<div align="center"><img src="img/lazchng.png" width="600"/></div>
 
 **News**: We released the report on [ICSIP](https://ieeexplore.ieee.org/document/9339325).
 

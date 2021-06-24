@@ -16,7 +16,7 @@ This works based on **Tensorflow 1.12**.
 
 - **Range-Doppler Map**
 
-  <div align="center"><img src="img/AWR.png" width="200"/></div>
+  <div align="center"><img src="img/AWR.png" width="300"/></div>
   <div align="center"><img src="img/RDM.png" width="600"/></div>
   <div align="center"><img src="img/RDM2.png" width="200"/></div>
   

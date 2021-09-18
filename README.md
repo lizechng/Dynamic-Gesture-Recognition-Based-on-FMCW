@@ -37,7 +37,7 @@ This works based on **Tensorflow 1.12**.
 - [x] Multi-Net: Nerual network code with ATM/RTM/DTM as the input, just using 2d-cnn.
 - [x] TS-FNN: Nerual network code with ATM/RDM as the input, using 3d-cnn and LSTM.
 - [x] tools: some python scripts
-
+- [x] simulations: refer to [handwave simulation](https://github.com/liynjy/FMCW-Radar-Simulator)
 ## License
 
 This project is released under the [Apache 2.0 license](LICENSE).

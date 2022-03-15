@@ -1,7 +1,8 @@
 <div align="center"><img src="img/lazchng.png" width="500"/></div>
 
-**News**: We released the report on [ICSIP](https://ieeexplore.ieee.org/document/9339325).
-
+**News**: 
+- We released the report on [ICSIP](https://ieeexplore.ieee.org/document/9339325).
+- We released the report on [IET IRC](https://digital-library.theiet.org/content/conferences/10.1049/icp.2021.0704)
 ## Dynamic Gesture Recognition Based on FMCW
 
 This project is based on FMCW radar, and completed the data acquisition of four kinds of dynamic gesture signals. Then we use Matlab to generate RDM/xTM images, which is as the input of Multi-Net and TS-FNN. The acc is about 98%.
